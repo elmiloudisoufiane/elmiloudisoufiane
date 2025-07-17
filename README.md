@@ -20,7 +20,7 @@ Hi, I'm **Soufiane Elmiloudi**, a passionate Fullstack Developer who loves build
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/soufiane-elmiloudi-7795b8360/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-visit-green)](https://elmiloudisoufiane.github.io/Portfolio/)
 
-## ✨ Motto
+##  Motto
 > “Continuous learning is the key to success.”
 
 ---
