@@ -7,7 +7,7 @@ Hi, I'm **Soufiane Elmiloudi**, a passionate Fullstack Developer who loves build
 - Lifelong learner, always exploring the latest technologies.
 - Skilled in combining beautiful front-end interfaces with robust back-end solutions.
 
-## 🛠 Skills & Tools
+##  Skills & Tools
 - **Frontend:** React, HTML, CSS, JavaScript
 - **Backend:** Node.js, Express
 - **Database:** MongoDB
