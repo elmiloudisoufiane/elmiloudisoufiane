@@ -42,7 +42,7 @@ Hi, I'm **soufiane elmiloudi**, a passionate Fullstack Developer who loves build
 
 
 
-<p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=elmiloudisoufiane&show_icons=true&theme=radical" alt="Soufiane's GitHub stats" />
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=elmiloudisoufiane&theme=radical" alt="GitHub Streak" />
